@@ -86,7 +86,3 @@ The scatter plot shows customers grouped into 3 color-coded clusters based on Ag
 
 ---
 
-## ✨ Author
-
-**Vighnesh Gaikwad**
-🔗 [GitHub](https://github.com/vighneshgaikwad59-web)
