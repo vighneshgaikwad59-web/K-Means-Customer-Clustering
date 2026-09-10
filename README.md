@@ -78,11 +78,3 @@ The scatter plot shows customers grouped into 3 color-coded clusters based on Ag
 
 ---
 
-## 🔧 Things You Can Tweak
-
-- Change `n_clusters=3` → try `2`, `4`, or more to see different groupings
-- Change `random_state` → different starting points (results may shift slightly)
-- Add more features (e.g., `Income`) to the dataset for richer clustering
-
----
-
